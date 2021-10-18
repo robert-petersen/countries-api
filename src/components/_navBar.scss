@@ -5,4 +5,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   background-color: hsl(209, 23%, 22%);
+
+  .nav_theme_container {
+    display: flex;
+  }
 }
